@@ -1,5 +1,4 @@
 # codility-lessons
-Answers of codility lessons
 
 This repository is my answers of codility lessons written in golang.
 
